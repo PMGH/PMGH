@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Peter.
+
+I'm a Software Developer from Scotland currently working remotely for [Care Sourcer](https://www.caresourcer.com).
 
 <!--
 **PMGH/PMGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
