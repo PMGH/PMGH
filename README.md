@@ -4,7 +4,7 @@ I'm a Senior Software Developer from Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 I am experienced with TypeScript, React, Next.js, and Ruby on Rails.
 
-I've worked in eCommerce for [Ooni](https://ooni.com), the Care Industry for [CareSourcer](https://www.caresourcer.com/), and FinTech for [Experian](https://www.experian.co.uk/) and Castlight Financial (who were acquired by Experian).
+I've worked in eCommerce for [Ooni](https://ooni.com), the Care Industry for [CareSourcer](https://www.caresourcer.com/), and FinTech for [Experian](https://www.experian.co.uk/) and Castlight Financial.
 
 <!--
 **PMGH/PMGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
